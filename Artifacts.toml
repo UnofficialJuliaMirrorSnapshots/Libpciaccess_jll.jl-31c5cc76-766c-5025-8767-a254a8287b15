@@ -1,0 +1,89 @@
+[[Libpciaccess]]
+arch = "armv7l"
+git-tree-sha1 = "11ed22a048376ad219debd7eae842dff6b459109"
+libc = "glibc"
+os = "linux"
+
+    [[Libpciaccess.download]]
+    sha256 = "7e499fc1475e2afe65a62ee6da2e04c8987d37ea20be55ee0eb15df220a6bfe9"
+    url = "https://github.com/JuliaBinaryWrappers/Libpciaccess_jll.jl/releases/download/Libpciaccess-v0.16.0+0/Libpciaccess.v0.16.0.arm-linux-gnueabihf.tar.gz"
+[[Libpciaccess]]
+arch = "aarch64"
+git-tree-sha1 = "7e498faeb12869c19a2bfc4e0a44ba98ac2cf050"
+libc = "musl"
+os = "linux"
+
+    [[Libpciaccess.download]]
+    sha256 = "6350e6c230a9769fcd3ba19e92186bcdf3458f78085f5c70facd9302e0288613"
+    url = "https://github.com/JuliaBinaryWrappers/Libpciaccess_jll.jl/releases/download/Libpciaccess-v0.16.0+0/Libpciaccess.v0.16.0.aarch64-linux-musl.tar.gz"
+[[Libpciaccess]]
+arch = "i686"
+git-tree-sha1 = "3ea45f2e41262fdf264bd2e07e6965ad9fb5fbe8"
+libc = "musl"
+os = "linux"
+
+    [[Libpciaccess.download]]
+    sha256 = "80f23622abbcff4db6db87fb893911b11ef49b9afa9a852dba648fb29be3a6ba"
+    url = "https://github.com/JuliaBinaryWrappers/Libpciaccess_jll.jl/releases/download/Libpciaccess-v0.16.0+0/Libpciaccess.v0.16.0.i686-linux-musl.tar.gz"
+[[Libpciaccess]]
+arch = "i686"
+git-tree-sha1 = "c8f981e1e48316abea3e20be3d6b7968fbee4e59"
+libc = "glibc"
+os = "linux"
+
+    [[Libpciaccess.download]]
+    sha256 = "56b705262f603ac12cb0145aac3071f11f0293698715d28e152822f55c2b7474"
+    url = "https://github.com/JuliaBinaryWrappers/Libpciaccess_jll.jl/releases/download/Libpciaccess-v0.16.0+0/Libpciaccess.v0.16.0.i686-linux-gnu.tar.gz"
+[[Libpciaccess]]
+arch = "x86_64"
+git-tree-sha1 = "b849225b7d95a734294a180247ddedec1841fdcb"
+os = "freebsd"
+
+    [[Libpciaccess.download]]
+    sha256 = "7476f15462349b5f871cc38b0b95963cd0b9714850a4e68eb5e6be787a8fb9de"
+    url = "https://github.com/JuliaBinaryWrappers/Libpciaccess_jll.jl/releases/download/Libpciaccess-v0.16.0+0/Libpciaccess.v0.16.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Libpciaccess]]
+arch = "powerpc64le"
+git-tree-sha1 = "fd366e720e561c92ff5e33564fb6c8a291e39f8b"
+libc = "glibc"
+os = "linux"
+
+    [[Libpciaccess.download]]
+    sha256 = "349a9feea759e688cf5cdec3776517d84250fe3489bcc21fd8e60e4c57f39539"
+    url = "https://github.com/JuliaBinaryWrappers/Libpciaccess_jll.jl/releases/download/Libpciaccess-v0.16.0+0/Libpciaccess.v0.16.0.powerpc64le-linux-gnu.tar.gz"
+[[Libpciaccess]]
+arch = "armv7l"
+git-tree-sha1 = "f36abe41c77b08c6e4ebf38205ab44f7187b198a"
+libc = "musl"
+os = "linux"
+
+    [[Libpciaccess.download]]
+    sha256 = "7fd3249e1adb65aca7a8607f1817e057d761113f4daa15c7aaa7de16a8f1855e"
+    url = "https://github.com/JuliaBinaryWrappers/Libpciaccess_jll.jl/releases/download/Libpciaccess-v0.16.0+0/Libpciaccess.v0.16.0.arm-linux-musleabihf.tar.gz"
+[[Libpciaccess]]
+arch = "aarch64"
+git-tree-sha1 = "718683bb9d73f40b9d3b3a189994a184ec56e46e"
+libc = "glibc"
+os = "linux"
+
+    [[Libpciaccess.download]]
+    sha256 = "ca12de87f8ed9e2399156bcaa9592376cb8fe5a278af9b9001aa56c138d27d0f"
+    url = "https://github.com/JuliaBinaryWrappers/Libpciaccess_jll.jl/releases/download/Libpciaccess-v0.16.0+0/Libpciaccess.v0.16.0.aarch64-linux-gnu.tar.gz"
+[[Libpciaccess]]
+arch = "x86_64"
+git-tree-sha1 = "3868c76384615440a7731e21f5997cd41c87cc0e"
+libc = "glibc"
+os = "linux"
+
+    [[Libpciaccess.download]]
+    sha256 = "90a4ebd16231587a67cf865e53fddc93bbd3196be163c595114a6cbf00026014"
+    url = "https://github.com/JuliaBinaryWrappers/Libpciaccess_jll.jl/releases/download/Libpciaccess-v0.16.0+0/Libpciaccess.v0.16.0.x86_64-linux-gnu.tar.gz"
+[[Libpciaccess]]
+arch = "x86_64"
+git-tree-sha1 = "ec57224dd7869521078efa680b9fb21c787e47f4"
+libc = "musl"
+os = "linux"
+
+    [[Libpciaccess.download]]
+    sha256 = "a96a84bca07c62dd01adfc15e6c04a634139157294559493dacf9498b81391a6"
+    url = "https://github.com/JuliaBinaryWrappers/Libpciaccess_jll.jl/releases/download/Libpciaccess-v0.16.0+0/Libpciaccess.v0.16.0.x86_64-linux-musl.tar.gz"
